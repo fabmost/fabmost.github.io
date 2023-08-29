@@ -1,11 +1,11 @@
 {
-    "name": "aldebaran",
-    "short_name": "aldebaran",
+    "name": "Aldebaran",
+    "short_name": "Aldebaran",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Calidad, moda y comodidad en cada hilo.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
